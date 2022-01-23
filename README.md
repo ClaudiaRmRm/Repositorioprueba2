@@ -11,4 +11,4 @@ O esto otro una lista
 
 ### Insertaré la imagen para presentar a mi colectiva
 
-! [logo](IMG/Logo Desde Mujeres.png)
+![logo](IMG/Logo Desde Mujeres.png)
