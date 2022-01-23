@@ -8,3 +8,7 @@ Esto es una prueba de **estudianding** e intentar mejorar lo que estoy aprendien
 O esto otro una lista
 * Punto 1
 * Punto 2
+
+### Insertaré la imagen para presentar a mi colectiva
+
+! [logo](img/Logo Desde Mujeres.png)
